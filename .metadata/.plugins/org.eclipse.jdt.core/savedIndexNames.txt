@@ -1,7 +1,0 @@
-INDEX VERSION 1.129+C:\Users\manze\Desktop\Högskola\1DV607\Workshop 2\.metadata\.plugins\org.eclipse.jdt.core
-3346440787.index
-2960233157.index
-1806623746.index
-3829300047.index
-4041727360.index
-4226189571.index
