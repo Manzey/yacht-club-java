@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+          <member id="1">
+                    <firstname>Ben</firstname>
+                    <lastname>Larsson</lastname>
+                    <memberid>1</memberid>
+                    <persnum>59584848</persnum>
+                    <boats>
+                              <amount>3</amount>
+                              <boat id="1">
+                                        <type>Airboat</type>
+                                        <length>3</length>
+                              </boat>
+                              <boat id="2">
+                                        <type>Canoe</type>
+                                        <length>5</length>
+                              </boat>
+                              <boat id="3">
+                                        <type>Bolta</type>
+                                        <length>4</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="2">
+                    <firstname>Thomas</firstname>
+                    <lastname>Krister</lastname>
+                    <memberid>2</memberid>
+                    <persnum>703567123</persnum>
+                    <boats>
+                              <amount>2</amount>
+                              <boat id="1">
+                                        <type>Gondola</type>
+                                        <length>2</length>
+                              </boat>
+                              <boat id="2">
+                                        <type>Gundalow</type>
+                                        <length>6</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="3">
+                    <firstname>Torsten</firstname>
+                    <lastname>Sten</lastname>
+                    <memberid>3</memberid>
+                    <persnum>703398936</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+          <member id="4">
+                    <firstname>Sven</firstname>
+                    <lastname>Svensson</lastname>
+                    <memberid>4</memberid>
+                    <persnum>5912383</persnum>
+                    <boats>
+                              <amount>1</amount>
+                              <boat id="1">
+                                        <type>Ketch</type>
+                                        <length>5</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="5">
+                    <firstname>Stefan</firstname>
+                    <lastname>Krister</lastname>
+                    <memberid>5</memberid>
+                    <persnum>60659034</persnum>
+                    <boats>
+                              <amount>1</amount>
+                              <boat id="1">
+                                        <type>Kayak</type>
+                                        <length>3</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="6">
+                    <firstname>Svenne</firstname>
+                    <lastname>Karlsson</lastname>
+                    <memberid>6</memberid>
+                    <persnum>690549494</persnum>
+                    <boats>
+                              <amount>1</amount>
+                              <boat id="1">
+                                        <type>Motorboat</type>
+                                        <length>4</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="7">
+                    <firstname>David</firstname>
+                    <lastname>Karlsson</lastname>
+                    <memberid>7</memberid>
+                    <persnum>49494949</persnum>
+                    <boats>
+                              <amount>1</amount>
+                              <boat id="1">
+                                        <type>Kayak</type>
+                                        <length>2</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="8">
+                    <firstname>David</firstname>
+                    <lastname>Larsson</lastname>
+                    <memberid>8</memberid>
+                    <persnum>955959595</persnum>
+                    <boats>
+                              <amount>1</amount>
+                              <boat id="1">
+                                        <type>Airboat</type>
+                                        <length>3</length>
+                              </boat>
+                    </boats>
+          </member>
+          <member id="9">
+                    <firstname>John</firstname>
+                    <lastname>Larsson</lastname>
+                    <memberid>9</memberid>
+                    <persnum>9410185595</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+          <member id="10">
+                    <firstname>John</firstname>
+                    <lastname>John</lastname>
+                    <memberid>10</memberid>
+                    <persnum>9501014444</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+          <member id="11">
+                    <firstname>John</firstname>
+                    <lastname>Svensson</lastname>
+                    <memberid>11</memberid>
+                    <persnum>9504175595</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+          <member id="12">
+                    <firstname>Torsten</firstname>
+                    <lastname>Torstensson</lastname>
+                    <memberid>12</memberid>
+                    <persnum>9506185595</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+          <member id="13">
+                    <firstname>Torsten</firstname>
+                    <lastname>Johnsson</lastname>
+                    <memberid>13</memberid>
+                    <persnum>9506185595</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+          <member id="14">
+                    <firstname>Yohn</firstname>
+                    <lastname>Smith</lastname>
+                    <memberid>14</memberid>
+                    <persnum>9506185595</persnum>
+                    <boats>
+                              <amount>0</amount>
+                    </boats>
+          </member>
+</company>

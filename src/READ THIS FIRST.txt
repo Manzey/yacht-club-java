@@ -1,0 +1,13 @@
+Hello there!
+
+IF WINDOWS:
+In order to run the application, go into the folder(package) Run and run the "RunApp.bat" to run the application in a terminal.
+It also works to open the entire folder in an IDE and use the RunApp.java to run the application. The application will show in your IDE's console window.
+
+IF LINUX & MAC: 
+Use the RunApp.java or use a terminal of your choice to run the .jar file via JAVA command: "java -jar RunApp.jar"
+
+- If neither of the above options work for you, make sure JAVA-paths are properly set for your terminal. There are plenty of guides how to adjust this online via a simple search.
+- If opening the JAVA project itself doesn't work, you might have to adjust the filepath in MemberRegistry.java - methods readXMLfile() and writeXMLfile()
+
+Thank you for using my application!
